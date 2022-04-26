@@ -1,0 +1,21 @@
+body {
+  background: rgb(92, 228, 238);
+}
+
+#comeco{
+  background-color: #b2f1ed;
+  color: #03567c;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 200px;
+}
+
+#linguagens{
+  color: rgb(116, 38, 218);
+}
+
+#contato{
+  color: #b6357c;
+}
